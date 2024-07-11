@@ -3,10 +3,10 @@
   padding-block-start: 59px;
   text-align: center;
   font-size: 126px;
-  line-height: 140px;
+  line-height: 138px;
   font-weight: 800;
   z-index: 1;
-  letter-spacing: -1px;
+  letter-spacing: -1.5px;
 }
 
 .title::after {
