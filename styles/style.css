@@ -1,6 +1,6 @@
 .title {
   position: static;
-  padding-block-start: 85px;
+  padding-block-start: 60px;
   text-align: center;
   font-size: 130px;
   line-height: 150px;
@@ -18,8 +18,8 @@
   content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
   white-space: pre;
   position: absolute;
-  top: 20%;
-  left: 51%;
+  top: 182px;
+  left: 36px;
   background: #fff;
   color: #000;
   padding: 36px 44px;
@@ -30,7 +30,7 @@
   width: fit-content;
   height: 142px;
   text-align: start;
-  font-size: 35px;
+  font-size: 30px;
   line-height: 35px;
   font-weight: 400;
 }
