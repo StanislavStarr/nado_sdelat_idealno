@@ -12,7 +12,6 @@ body {
   height: inherit;
   min-width: 800px;
   font-family: 'Raleway', sans-serif;
-  position: relative;
   display: flex;
   justify-content: center;
   position: absolute;
