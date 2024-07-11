@@ -1,13 +1,12 @@
 .title {
   position: static;
-  padding-block-start: 60px;
+  padding-block-start: 58px;
   text-align: center;
   font-size: 130px;
-  line-height: 150px;
+  line-height: 130px;
   font-weight: 800;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
   z-index: 1;
-  text-transform: uppercase;
 }
 
 .title::after {
