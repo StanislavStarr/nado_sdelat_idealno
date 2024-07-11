@@ -6,10 +6,15 @@
   line-height: 140px;
   font-weight: 800;
   z-index: 1;
+  letter-spacing: -1px;
 }
 
 .title::after {
   content: '*';
+}
+
+.title:hover {
+  color: #4C4C4C;
 }
 
 .title:hover::before {
